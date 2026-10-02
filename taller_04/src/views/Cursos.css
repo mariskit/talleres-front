@@ -1,0 +1,15 @@
+﻿.cursos-page {
+  padding-top: 60px;
+  background-color: #f5f7fa;
+  min-height: 100vh;
+}
+
+.courses-section {
+  background-color: #f5f7fa;
+}
+
+.courses-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 24px;
+}

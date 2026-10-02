@@ -1,0 +1,23 @@
+﻿.nosotros-page {
+  padding-top: 60px;
+  min-height: 100vh;
+  background: linear-gradient(160deg, #0d1117 0%, #131b2e 50%, #0a1628 100%);
+}
+
+.counter-section {
+  min-height: calc(100vh - 60px);
+  display: flex;
+  align-items: center;
+}
+
+.counter-title {
+  font-size: clamp(1.5rem, 3vw, 2rem);
+  font-weight: 800;
+  color: #ffffff;
+  margin-bottom: 10px;
+}
+
+.counter-subtitle {
+  color: #9ca3af;
+  font-size: 0.95rem;
+}
